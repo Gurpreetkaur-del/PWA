@@ -5,8 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
           Hello React PWA
+          <p>This is my first PWA</p>
+          <p>I have to createe react app pwa</p>
       </header>
     </div>
   );
